@@ -1,0 +1,7 @@
+name: NoSwearPlus
+author: FluffyPancakes
+version: 1.0
+main: me.FluffyPancakes.NoSwearPlus.NoSwearPlus
+commands:
+   NoSwearPlus:
+      description: Displays information about the plugin.

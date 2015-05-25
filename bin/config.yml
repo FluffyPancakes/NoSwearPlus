@@ -1,0 +1,20 @@
+#Report bugs to: http://website.com
+#Made by FluffyPancakes
+
+Config:
+  #Don't replace the version, this is for config auto updating.
+  Version: 1.0
+
+  #Perms
+  BypassPerm: "NoSwearPlus.bypass"
+  AddWordPerm: "NoSwearPlus.add"
+  RemoveWordPerm: "NoSwearPlus.remove"
+  ReloadWordPerm: "NoSwearPlus.reload"
+
+  #WordBlocker
+  WordBlockedReplaceLetter: false
+  WordBlockedReplacerLetter: "&4&l*"
+  WordBlockedReplace: false
+  WordBlockedReplacer: "&4&l*BLEEP*"
+  WordBlockedMessage: false
+  WordBlocked: "&c&l[NoSwearPlus] &cSorry, That Message Contained A Word That Isn't Allowed."
